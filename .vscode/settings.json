@@ -1,0 +1,5 @@
+{
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true
+}
